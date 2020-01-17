@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="osiris:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6cdbe31-f82d-4784-870a-42966fac0d26" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Stefan\eclipse-workspace\OpenSourceStepwiseImprovementRoutinesInScala\src\osiris\shape</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WX30eHM1UTWWo4VZyxZMzJlk6g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/osiris_nosvc" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Adam\OpenSourceStepwiseImprovementRoutinesInScala\example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stefan\eclipse-workspace\OpenSourceStepwiseImprovementRoutinesInScala\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SineRecognizer (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SineRecognizer (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="osiris.SineRecognizer" />
+      <module name="osiris" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="osiris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SineRecognizer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.SineRecognizer" />
+      <module name="osiris" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="osiris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="OpenSourceStepwiseImprovementRoutinesInScala" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SineRecognizer (1)" />
+        <item itemvalue="Application.SineRecognizer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6cdbe31-f82d-4784-870a-42966fac0d26" name="Default" comment="" />
+      <created>1575116630935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575116630935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="290" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1579282098741">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="449" y="290" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.738@0.0.1366.738" timestamp="1579282098741" />
+    <state x="559" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579282022963">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="559" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1579282022963" />
+    <state x="288" y="56" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1579282021703">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="288" y="56" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.738@0.0.1366.738" timestamp="1579282021703" />
+    <state x="488" y="156" key="FileChooserDialogImpl" timestamp="1579282590225">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="156" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1579282590225" />
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom" timestamp="1579282520092">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1579282520092" />
+    <state width="1323" height="271" key="GridCell.Tab.0.center" timestamp="1579282520092">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1579282520092" />
+    <state width="1323" height="271" key="GridCell.Tab.0.left" timestamp="1579282520092">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1579282520092" />
+    <state width="1323" height="271" key="GridCell.Tab.0.right" timestamp="1579282520092">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1579282520092" />
+    <state x="350" y="75" key="NewModule_or_Project.wizard" timestamp="1579282721722">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="350" y="75" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1579282721722" />
+  </component>
+</project>
